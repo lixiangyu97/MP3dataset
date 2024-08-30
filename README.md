@@ -33,7 +33,7 @@
 
 ## 使用方法
 
-1. 从 [Google Drive](https://drive.google.com/drive/folders/1mdLwue_FdnLXxZh_psTyku9yhiSDnWvY?usp=sharing) 下载数据集（请替换为实际链接）。
+1. 从 [Google Drive](https://drive.google.com/drive/folders/1mdLwue_FdnLXxZh_psTyku9yhiSDnWvY?usp=sharing) 下载数据集。
 2. 解压文件夹，并在您的机器学习模型中使用这些数据进行音乐风格分类。
 
 ## 许可协议
